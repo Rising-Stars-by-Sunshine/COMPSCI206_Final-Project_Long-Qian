@@ -18,7 +18,7 @@ Please provide an introduction to the content of this GitHub repository, bearing
 - [Advance_CSECON](Advance_CSECON)
 
 ## More About the Author
-![Headshot](url-to-headshot-image)
+![Headshot](images/Headshot.jpg)
 - **Self-Introduction**: A brief biography highlighting academic and personal interests.
 - **Final Reflections**: 
   - **Intellectual Growth**: Insights and knowledge acquired.
