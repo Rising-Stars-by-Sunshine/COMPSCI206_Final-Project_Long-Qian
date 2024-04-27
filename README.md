@@ -4,11 +4,10 @@
 Explore effective titling strategies in our [guide](https://www.nature.com/articles/s41562-021-01152-2).
 
 ## Project Information
-- **Author**: [First Name] [Last Name], Majoring in [Major], Class of [Year], Duke Kunshan University
+- **Author**: [Long] [Qian], Majoring in [Applied Math and Computer Science], Class of [2026], Duke Kunshan University
 - **Instructor**: Professor Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: This is a submission for the Final Project in [COMSCI/ECON 206 Computational Microeconomics](https://ms.pubpub.org/), Spring 2024 Term (Seven Week - Fourth), taught by Professor Luyao Zhang at Duke Kunshan University.
-- **Acknowledgements**: [Guidelines for Acknowledgements](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-  [Note: When writing acknowledgments for a research paper, please start by thanking your instructor and supervisor for their guidance. Then, thank your colleagues for their support and your classmates for their engaging discussions and input. Conclude with a note of appreciation for friends and family who encouraged you throughout your research endeavor. This sequence ensures gratitude is shown to professional and personal supporters who have contributed to your academic journey.]
+- **Acknowledgements**: I would like to extend my deepest gratitude to my instructor and supervisor, Prof. Luyao Zhang, for her invaluable guidance throughout the journey of my research. Her expertise and insight have been the compass that steered this work towards its completion.
 
 ### Introduction to the GitHub Repository
 
