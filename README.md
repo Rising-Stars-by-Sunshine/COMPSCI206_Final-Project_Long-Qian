@@ -1,7 +1,6 @@
 # COMPSCI206_Final-Project_Long-Qian
 
-## How to Choose a Good Title? 
-Explore effective titling strategies in our [guide](https://www.nature.com/articles/s41562-021-01152-2).
+## Adaptive Trust Mechanism: Revolutionizing Game Theory with Blockchain-Enhanced Cooperative Strategies
 
 ## Project Information
 - **Author**: Long Qian, Majoring in [Applied Math and Computer Science], Class of [2026], Duke Kunshan University
