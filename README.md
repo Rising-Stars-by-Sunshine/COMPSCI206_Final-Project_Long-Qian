@@ -25,6 +25,10 @@ Please provide an introduction to the content of this GitHub repository, bearing
 - **Contact Me**:
    - **Email**: lq54@duke.edu
 - **Final Reflections**: 
-  - **Intellectual Growth**: Insights and knowledge acquired.
+  - **Intellectual Growth**:
+
+    In this course, I not only expanded my knowledge of computer science, but also learned more interesting knowledge of economics, such as different kinds of equilibrium and games in different situations, including their characteristics and corresponding limitations.  In addition, I learned how economists and computer scientists study the game scenarios of human, which was very interesting to me.  Last but not least, through the study of this course, I realized that it is of great significance to combine the knowledge of economics and computer science and apply it to the research of game theory.  In addition, this research has endless potential to promote the development of human economy and society.
   - **Professional Growth**: Skills developed and career aspirations.
-  - **Living a Purposeful Life**: My journey so far has been marked by a commitment to personal excellence and a desire to contribute meaningfully to society. One of my significant personal achievements includes the development of the "Adaptive Trust Equilibrium" model, which not only showcases my ability to innovate but also my dedication to creating solutions that enhance collective welfare. Looking ahead, my future goals involve continuing to refine this model and exploring its applications in other strategic contexts beyond the Traveler's Dilemma. I am also committed to educating others about the potential of integrating technology with economic theories and aspire to mentor the next generation of thinkers and innovators in this field.
+  - **Living a Purposeful Life**:
+
+    My journey so far has been marked by a commitment to personal excellence and a desire to contribute meaningfully to society. One of my significant personal achievements includes the development of the "Adaptive Trust Equilibrium" model, which not only showcases my ability to innovate but also my dedication to creating solutions that enhance collective welfare. Looking ahead, my future goals involve continuing to refine this model and exploring its applications in other strategic contexts beyond the Traveler's Dilemma. I am also committed to educating others about the potential of integrating technology with economic theories and aspire to mentor the next generation of thinkers and innovators in this field.
