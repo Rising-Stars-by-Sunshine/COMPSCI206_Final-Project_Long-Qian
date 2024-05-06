@@ -4,4 +4,4 @@
   View-Only Overleaf: https://www.overleaf.com/read/syvpcwtgvnsx#6539d4
 
 ### Compiled PDF of Overleaf
-  [Compiled PDF])(Compiled PDF (v0))
+  [Compiled PDF](Compiled PDF (v0))
