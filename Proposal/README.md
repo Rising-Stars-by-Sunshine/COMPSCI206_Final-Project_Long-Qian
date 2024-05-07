@@ -20,7 +20,7 @@
 and economic issues in the digital economy of complex system involving
 both human and AI agent that inspires your research?
 
-**Answer**:
+  **Answer**: The existing literature on game theory often fails to make optimal gains in the digital economy, where fast and transparent trust communication is essential.  My research addresses these gaps by creating mechanisms that improve the outcomes of game-theoretic interactions by enhancing cooperation and trust, especially in Settings where decisions have significant economic and social implications.  Furthermore, he use of AI in this field of research is not yet mature. In my future research, I will use the advantages of ai in learning and forecasting to further improve the credit system in the mechanism I proposed.
 ### Research Questions
 - What are the questions that your research intends to answer?
 
