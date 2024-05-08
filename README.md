@@ -15,6 +15,7 @@ Please provide an introduction to the content of this GitHub repository, bearing
 ## Table of Contents
 - [CSEcon](CSEcon)
 - [Advance_CSECON](Advance_CSECON)
+- [Proposal](Proposal)
 
 ## More About the Author
 ![Headshot](images/Headshot.jpg)
