@@ -3,7 +3,7 @@
 ## Adaptive Trust Mechanism: Revolutionizing Game Theory with Blockchain-Enhanced Cooperative Strategies
 
 ## Project Information
-- **Author**: Long Qian, Majoring in [Applied Math and Computer Science], Class of [2026], Duke Kunshan University
+- **Author**: Long Qian, Majoring in Applied Math and Computer Science, Class of 2026, Duke Kunshan University
 - **Instructor**: Professor Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: This is a submission for the Final Project in [COMSCI/ECON 206 Computational Microeconomics](https://ms.pubpub.org/), Spring 2024 Term (Seven Week - Fourth), taught by Professor Luyao Zhang at Duke Kunshan University.
 - **Acknowledgements**: I would like to extend my deepest gratitude to my instructor and supervisor, Prof. Luyao Zhang, for her invaluable guidance throughout the journey of my research. Her expertise and insight have been the compass that steered this work towards its completion.
